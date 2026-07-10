@@ -72,5 +72,3 @@ Full Stack Developer • DSA Enthusiast • VLSI Design • RISC-V
 - 🥇 IEEE ITC India 2026 Research Work Accepted
 - 🎓 IIT Tirupati
 - ⭐ 9.03 CGPA
-- LinkedIn: Coming Soon
-- LeetCode: https://leetcode.com/u/YOUR_USERNAME/
