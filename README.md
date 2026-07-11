@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering Undergraduate @ IIT Tirupati</h3>
 
 <p align="center">
-Full Stack Developer • DSA Enthusiast • VLSI Design • RISC-V
+Full Stack Developer  • VLSI Design • RISC-V
 </p>
 
 ---
