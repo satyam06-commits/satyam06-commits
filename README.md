@@ -17,8 +17,7 @@ Passionate about designing reliable digital systems .
 # 👨‍💻 About Me
 
 - 🎓 B.Tech in Electrical Engineering, IIT Tirupati (**CGPA: 9.03/10**)
-- 💡 Interested in **Digital Design**, **Computer Architecture**, **RTL Design**, and **Design for Testability (DFT)**
-- 🔬 Working on a **User-Executable Self-Testable 32-bit RISC-V Processor**
+- 💡 Interested in **Digital Design**, **Computer Architecture**, **RTL Design**, and exploring **Design for Testability (DFT)**
 - 📄 Research accepted at **IEEE International Test Conference (ITC) India 2026**
 - ⚡ I enjoy building  **hardware systems** and  developing **software** that solve practical engineering problems.
 
