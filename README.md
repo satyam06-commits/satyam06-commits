@@ -24,26 +24,6 @@ Passionate about designing reliable digital systems .
 
 ---
 
-# 🚀 Featured Research
-
-## 🖥️ User-Executable Self-Testable 32-bit RISC-V Processor
-
-Designing a self-testable RISC-V processor that enables software-controlled execution of custom test instructions, allowing selective testing of processor modules for improved in-field testability.
-
-### Highlights
-
-- ✅ 32-bit RISC-V Processor
-- ✅ Custom ISA Extensions
-- ✅ Software-Based Self-Test (SBST)
-- ✅ RTL Design using Verilog HDL
-- ✅ IEEE ITC India 2026 Accepted Research
-
-📄 **Paper:** *Coming Soon*
-
-🖼️ **Poster:** *Coming Soon*
-
----
-
 # 🛠️ Technical Skills
 
 ## 💻 Programming Languages
